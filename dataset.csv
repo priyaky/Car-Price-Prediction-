@@ -1,0 +1,9 @@
+Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+Maruti800,2007,1.75,2.35,50000,Petrol,Dealer,Manual,0
+SkodaRapid,2014,9.25,10.00,120000,Diesel,Dealer,Manual,0
+HondaCity,2015,11.50,13.00,30000,Petrol,Dealer,Manual,0
+Hyundaii20,2013,4.00,5.50,60000,Petrol,Dealer,Manual,0
+FordEcoSport,2016,7.25,8.00,45000,Diesel,Individual,Manual,0
+ToyotaInnova,2015,12.00,14.00,80000,Diesel,Dealer,Manual,0
+MarutiDzire,2017,5.50,6.75,35000,Petrol,Dealer,Automatic,0
+MahindraXUV500,2014,9.75,11.00,75000,Diesel,Individual,Manual,0
